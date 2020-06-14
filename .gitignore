@@ -2,3 +2,4 @@ node_modules
 venv
 yarn.lock
 __pycache__
+build
