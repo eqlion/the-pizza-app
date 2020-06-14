@@ -1,4 +1,4 @@
 node_modules
-api/venv
+venv
 yarn.lock
-api/__pycache__
+__pycache__
